@@ -1,0 +1,18 @@
+#cool {
+    font-family: 'Bauhaus 93', cursive;
+    Color: red;
+}
+
+.my-style {
+    font-family: 'Bauhaus 93', 'Aharoni', 'Monospace', 'Lucida', 'Lucida';
+    background-color: orange;
+}
+
+.container{    
+    border: ridge;
+    border-color: red;
+    padding: 21px;
+    background-color: orange;
+    color: red;
+    border-width: 10px;
+}
